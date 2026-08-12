@@ -1,10 +1,10 @@
-# Unemployment Analysis with Python
+# Car Price Prediction with Machine Learning
 
 ## Objective
-Analyze unemployment trends in India using Python and visualize important insights.
+Predict car prices using Machine Learning.
 
 ## Dataset
-Unemployment in India Dataset
+CarPrice_Assignment.csv
 
 ## Technologies Used
 - Python
@@ -12,17 +12,13 @@ Unemployment in India Dataset
 - NumPy
 - Matplotlib
 - Seaborn
+- Scikit-learn
 
-## Analysis Performed
-- Data Cleaning
-- Data Exploration
-- Region-wise Analysis
-- Urban vs Rural Comparison
-- Correlation Heatmap
-- Distribution Analysis
+## Machine Learning Model
+- Linear Regression
 
-## Conclusion
-The project analyzes unemployment trends across different regions and areas in India using data visualization techniques.
+## Result
+R² Score: 0.8441
 
 ## Author
 Rohit Shravan Deore
