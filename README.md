@@ -1,24 +1,39 @@
-# Car Price Prediction with Machine Learning
+# OIBSIP - Oasis Infobyte Data Science Internship
 
-## Objective
-Predict car prices using Machine Learning.
+This repository contains all the tasks completed during my Data Science Internship at Oasis Infobyte.
 
-## Dataset
-CarPrice_Assignment.csv
+## Completed Tasks
+
+### Task 1: Iris Flower Classification
+- Classified Iris flowers using Machine Learning.
+- Algorithm: Logistic Regression
+
+### Task 2: Unemployment Analysis with Python
+- Analyzed unemployment trends in India.
+- Performed data visualization and exploratory data analysis.
+
+### Task 3: Car Price Prediction
+- Predicted car prices using Linear Regression.
+- Evaluated model performance using R² Score.
+
+### Task 4: Email Spam Detection
+- Classified SMS/Emails into Spam or Ham.
+- Algorithm: Naive Bayes
+
+### Task 5: Sales Prediction using Python
+- Predicted product sales based on advertising data.
+- Algorithm: Linear Regression
 
 ## Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
-## Machine Learning Model
-- Linear Regression
-
-## Result
-R² Score: 0.8441
+- Jupyter Notebook
 
 ## Author
-Rohit Shravan Deore
+
+**Rohit Deore**
