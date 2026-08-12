@@ -1,10 +1,10 @@
-# Email Spam Detection
+# Sales Prediction using Python
 
 ## Objective
-The objective of this project is to classify SMS/Email messages as Spam or Ham using Machine Learning.
+Predict product sales using advertising data with Machine Learning.
 
 ## Dataset
-- SMS Spam Collection Dataset
+Advertising Dataset
 
 ## Technologies Used
 - Python
@@ -15,10 +15,10 @@ The objective of this project is to classify SMS/Email messages as Spam or Ham u
 - Scikit-learn
 
 ## Machine Learning Model
-- Multinomial Naive Bayes
+- Linear Regression
 
 ## Result
-- Accuracy: 96%
+R² Score: 0.8994
 
 ## Author
 Rohit Shravan Deore
